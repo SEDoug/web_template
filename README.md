@@ -8,8 +8,7 @@ Seeking a broader field and desire to do work in web stack development.
 ## What I learned
 <li>Created a simple web page written using Visual Studio Code only with HTML5 | CSS | JavaScript.</li>
 
-### Front Page View
 <b>Top Layout</b><br>
 ![java-code](https://raw.githubusercontent.com/SEDoug/web_template/master/img/page-1.JPG)<hr>
-<b>Bottom Layyout</b><br>
+<b>Bottom Layout</b><br>
 ![java-code](https://raw.githubusercontent.com/SEDoug/web_template/master/img/page-2.JPG)<hr>
