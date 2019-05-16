@@ -7,16 +7,21 @@ From https://github.com/SEDoug/web_template
  * branch            master     -> FETCH_HEAD
 Already up to date.
 
-$ git add .    '//this will add any new or edited files on local
+## this will add any new or edited files on local
 
-$ git commit -m "upload images"   '//this will commit your new changes to the master branch
+$ git add .
+
+## this will commit your new changes to the master branch
+$ git commit -m "upload images"   
 [master da23c23] upload images
  3 files changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 img/library-la-trobe-study-students-159775.jpeg
  create mode 100644 img/pexels-photo-373076.jpeg
  create mode 100644 img/pexels-photo.jpg
  
- $ git push origin master   '//this will push new, edited changes to the master branch
+ ## this will push new, edited changes to the master branch
+ 
+ $ git push origin master   
 Enumerating objects: 8, done.
 Counting objects: 100% (8/8), done.
 Delta compression using up to 4 threads
