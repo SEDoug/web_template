@@ -10,7 +10,7 @@ Seeking a broader field and desire to do work in web stack development.
 
 ### Front Page View
 <b>Horizontal Layout with new button and color</b><br>
-![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tablet03.JPG)<hr>
-<b>Vertical Layout</b><br>
-![java-code](https://raw.githubusercontent.com/SEDoug/TipCalculator/master/tipCal01.JPG)<hr>
-<b>Horizontal Layout</b><br>
+![java-code](https://raw.githubusercontent.com/SEDoug/web_template/master/img/page-1.JPG)<hr>
+<b>Top Layout</b><br>
+![java-code](https://raw.githubusercontent.com/SEDoug/web_template/master/img/page-2.JPG)<hr>
+<b>Bottom Layout</b><br>
