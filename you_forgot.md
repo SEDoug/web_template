@@ -1,5 +1,8 @@
 You need to clone the repo first, after that do this.
 
+## Like this
+$ git clone https://github.com/SEDoug/web_template.git
+
 ## this pulls any changes from the master branch
 
 $ git pull origin master  
