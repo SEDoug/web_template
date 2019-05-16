@@ -1,6 +1,7 @@
 You need to clone the repo first, after that do this.
 
-##'//this pulls any changes from the master branch
+## this pulls any changes from the master branch
+
 $ git pull origin master  
 From https://github.com/SEDoug/web_template
  * branch            master     -> FETCH_HEAD
