@@ -6,7 +6,9 @@ Seeking a broader field and desire to do work in web stack development.
 <hr>
 
 ## What I learned
-<li>Created a simple web page written using Visual Studio Code only with HTML5 | CSS | JavaScript.</li><hr>
+<li>Created a this web page coded only with HTML5 | CSS | JavaScript.</li><hr>
+<li>Used vector icon sets with Font Awesome.</li><hr>
+
 <b>Top Layout</b><br>
 ![java-code](https://raw.githubusercontent.com/SEDoug/web_template/master/img/page-1.JPG)<hr>
 <b>Bottom Layout</b><br>
