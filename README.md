@@ -6,7 +6,7 @@ Seeking a broader field and desire to do work in web stack development.
 <hr>
 
 ## What I learned
-<li>Created a this web page coded only with HTML5 | CSS | JavaScript.</li><br>
+<li>Created a this web page coded only with HTML5 | CSS | JavaScript.</li>
 <li>Used vector icon sets with Font Awesome.</li><br>
 
 <b>Top Layout</b><br>
