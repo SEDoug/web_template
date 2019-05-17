@@ -6,8 +6,8 @@ Seeking a broader field and desire to do work in web stack development.
 <hr>
 
 ## What I learned
-<li>Created a this web page coded only with HTML5 | CSS | JavaScript.</li>
-<li>Used vector icon sets with Font Awesome.</li><br>
+<li>Web stack coding only with HTML5 | CSS | JavaScript.</li>
+<li>How to use a vector icon set and toolkit from Font Awesome.</li><br>
 
 <b>Top Layout</b><br>
 ![java-code](https://raw.githubusercontent.com/SEDoug/web_template/master/img/page-1.JPG)<hr>
