@@ -1,6 +1,6 @@
 You need to clone the repo first, after that do this.
 
-## Like this
+## Like this - make sure you are in the folder you would like to save the clone | I run from terminal in VSC
 $ git clone https://github.com/SEDoug/web_template.git
 
 ## this pulls any changes from the master branch
