@@ -6,7 +6,7 @@ Seeking a broader field and desire to do work in web stack development.
 <hr>
 
 ## What I learned
-<li>Web stack coding only with HTML5 | CSS | JavaScript.</li>
+<li>Web stack coding with HTML5. New features I like about HTML5 is the ability to use vector icons and bootstrap | CSS | JavaScript.</li>
 <li>How to use a vector icon set and toolkit from Font Awesome.</li><br>
 
 <b>Top Layout</b><br>
