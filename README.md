@@ -1,5 +1,4 @@
 # Full Stack - Front End Skill Development
-This is a simple web stack project written using Visual Studio Code with HTML5 | CSS3 | Front Awesome<br>
 Created by @DougMacGregor || http://doug-macgregor.webflow.io/<br>
 Seeking a broader field and desire to do work in web stack development.
 
