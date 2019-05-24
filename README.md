@@ -6,8 +6,7 @@ Seeking a broader field and desire to do work in web stack development.
 <hr>
 
 ## What I learned
-<li>New features I like about HTML5 is the ability to use vector icons and bootstrap.</li>
-<li>How to use a vector icon set and toolkit from Font Awesome.</li>
+<li>New features I like about HTML5 is the ability to use vector icons sets and toolkits from Font Awesome.
 <li>New features I like about CSS3 is the ability to use more updated CSS selectors.</li>
 <li>I also learned how robust Visual Studio Code can be used as a powerful IDE.</li><br>
 
