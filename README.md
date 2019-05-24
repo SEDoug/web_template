@@ -1,6 +1,6 @@
 # Full Stack - Front End Skill Development
 Created by @DougMacGregor || http://doug-macgregor.webflow.io/<br>
-Seeking a broader field and desire to do work in web stack development.
+Seeking a broader field and desire to do work in full stack development.
 
 <hr>
 
